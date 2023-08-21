@@ -1,6 +1,6 @@
 ### Hey, I'm Chris Kurcz 👋
 
-I'm a 3rd-year student pursuing a Bachelor's degree in Computer Science and a Mathematics minor at Pennsylvania State University's Main Campus. Currently, I am seeking an internship or co-op to gain practical experience in the field. I am passionate about writing good code and solving difficult problems. With the right opportunity, I would love to improve my skillset and apply my existing knowledge.
+I'm a 4th-year student pursuing a Bachelor's degree in Computer Science and a Mathematics minor at Pennsylvania State University's Main Campus. Currently, I am seeking a full time position for after I graduate in December. I am passionate about writing good code and solving difficult problems. With the right opportunity, I would love to improve my skillset and apply my existing knowledge.
 
 <!--
 **ChristopherKurcz/ChristopherKurcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
