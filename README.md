@@ -1,6 +1,6 @@
 ### Hey, I'm Chris Kurcz 👋
 
-I'm a 4th-year student pursuing a Bachelor's degree in Computer Science and a Mathematics minor at Pennsylvania State University's Main Campus.
+I'm an aspiring Software Engineer with a passion for learning, strengthening my skills, and writing code. Currently working full time as a Systems Engineer at Gournay Consulting in New Hope, Pennsylvania.
 
 <!--
 **ChristopherKurcz/ChristopherKurcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
